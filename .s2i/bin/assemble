@@ -1,5 +1,5 @@
 #!/bin/bash
-
+export SERVER_PORT=8081
 set -e
 
 source ${HTTPD_CONTAINER_SCRIPTS_PATH}/common.sh
